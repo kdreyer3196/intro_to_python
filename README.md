@@ -1,7 +1,8 @@
 # intro_to_python
 Introduction to using Python: initially created for a Northwestern University course
-in the Chemical and Biological Engineering department, but applicable to undergrad or
-grad students and beyond looking to learn a new (or their first) programming language.
+in the Chemical and Biological Engineering department by former TAs of the course, but
+applicable to undergrad or grad students and beyond looking to learn a new (or their
+first) programming language.
 
 Other useful repos for this purpose:
 
